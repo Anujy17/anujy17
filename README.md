@@ -1,4 +1,4 @@
-[![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/header-data-science-applications-examples.jpg)](https://anujy17.io)
+[![MasterHead](https://cdn.ttgtmedia.com/visuals/searchCIO/enterprise_software/cio_article_015.jpg)](https://anujy17.io)
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">I am a Data Science enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujy17&label=Profile%20views&color=0e75b6&style=flat" alt="anujy17" /> </p>

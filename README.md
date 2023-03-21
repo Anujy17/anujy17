@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.ttgtmedia.com/visuals/searchCIO/enterprise_software/cio_article_015.jpg)](https://anujy17.io)
+
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">I am a Data Science enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif">

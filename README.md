@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **at ineuron.ai**
 
-- 💬 Ask me about **python, SQL, Pandas, Numpy, MongoDB, Statistics, DSA, JAVA**
+- 💬 Ask me about **python, SQL, Pandas, Numpy, PowerBi, Excel, Machine Learning, MongoDB, Statistics, DSA, JAVA**
 
 - 📫 How to reach me **yadavanuj517@gmail.com**
 

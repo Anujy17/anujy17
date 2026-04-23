@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">I am a Data Science enthusiast</h3>
+<h3 align="center">I am a Data Analyst</h3>
 
 - 🌱 I’m currently learning **at ineuron.ai**
 

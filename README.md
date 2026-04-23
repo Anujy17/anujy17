@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">I am a Data Analyst</h3>
 
-- 🌱 I’m currently learning **at ineuron.ai**
+- 🌱 I’m currently Working **Working at Podar Education Network**
 
 - 💬 Ask me about **Python, SQL, Pandas, Numpy, Power BI, Excel, Machine Learning, MongoDB, Statistics, DSA, Azure**
 
